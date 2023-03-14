@@ -1,0 +1,6 @@
+require('packer')
+require('telescope-config')
+require('treesitter-config')
+require('tree-config')
+require('lsp-config')
+require('onedark').load()
