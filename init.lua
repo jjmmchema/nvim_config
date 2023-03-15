@@ -1,3 +1,5 @@
 require("jm.options")
 require("jm.keymaps")
 require("jm.plugins")
+require("jm.colorscheme")
+require("jm.cmp")
